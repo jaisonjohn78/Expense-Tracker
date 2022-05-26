@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# `Expense Tracker App using React-JS`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Scripts
 
 In the project directory, you can run:
 
